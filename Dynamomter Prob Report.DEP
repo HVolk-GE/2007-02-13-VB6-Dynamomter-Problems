@@ -1,0 +1,27 @@
+[Version]
+Version=1.0.0.0
+
+[Projekt1.exe <0007>]
+Dest=$(AppPath)
+Date=31.01.2007
+Time=15:27
+Version=1.0.0.0
+CABFilename=Projekt1.CAB
+CABINFFile=Projekt1.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=VB6DE.DLL
+Uses8=MyVbQL.dll
+Uses9=MSFLXGRD.OCX
+Uses10=config.ini
+Uses11=libmySQL.dll
+
+[MyVbQL.dll <0007>]
+Dest=$(WinSysPath)
+Date=12.02.2001
+Time=11:59
+Version=2.0.0.0

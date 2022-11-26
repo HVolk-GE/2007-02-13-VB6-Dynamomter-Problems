@@ -1,0 +1,423 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 24-03-2007
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Setups\31-01-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Missing Dependency Information]
+C:\WINDOWS\system\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Files Added]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Files In Project]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6DE.DLL=Yes
+C:\WINDOWS\system\MyVbQL.dll=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\Vb6stkit.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Install Locations]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINDOWS\system\MyVbQL.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\Vb6stkit.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Distribution]
+Type=single
+Size=
+Title=DB Dyno Problems
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Little tools FarmÆ-DB-Tools]
+Icon1=Projekt1.exe
+Title1=DB Dyno Problems
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 1 31.1.2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Setups\31-01-2007
+ProjectFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Setups\31-01-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Setups\31-01-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Setups\31-01-2007\Projekt1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DEP-Datei 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo
+
+[Package|DEP-Datei 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DEP-Datei 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-Datei 1|Files Found]
+
+[Package|DEP-Datei 1|Files Released]
+
+[Package|DEP-Datei 1|Missing Dependency Information]
+C:\WINDOWS\system\MyVbQL.dll=
+
+[Package|DEP-Datei 1|Out-of-Date Dependency Information]
+
+[Package|DEP-Datei 1|Files Added]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\config.ini=
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\libmySQL.dll=
+
+[Package|DEP-Datei 1|Files Removed]
+
+[Package|DEP-Datei 1|Files In Project]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6DE.DLL=Yes
+C:\WINDOWS\system\MyVbQL.dll=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\config.ini=Yes
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\libmySQL.dll=Yes
+
+[Package|DEP-Datei 1|Configure Registry Files]
+Applicable=
+
+[Package|DEP-Datei 1|Configure Remote Servers]
+Applicable=
+
+[Package|DEP-Datei 1|Install Locations]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINDOWS\system\MyVbQL.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\libmySQL.dll=$(AppPath)
+
+[Package|DEP-Datei 1|Configure Shared Files]
+Applicable=
+
+[Package|DEP-Datei 1|DepFile]
+DepCabFile=Projekt1.CAB
+DepCabRun=Projekt1.INF
+
+[Package|DEP-Datei 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo
+ProjectFolder=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Setups\17-03-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Files Found]
+config.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\config.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Missing Dependency Information]
+C:\WINDOWS\system\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\13-02-2007-dynamomter problems_b\config.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\13-02-2007-dynamomter problems_b\libmysql.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Files In Project]
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Projekt1.exe=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Install Locations]
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINDOWS\system\MyVbQL.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\Vb6stkit.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\Projekt1.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\libmySQL.dll=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Projekt1.exe=$(AppPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\Projekt1.exe=No
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\config.ini=No
+C:\Dokumente und Einstellungen\volkh\Eigene Dateien\Visual Basic 6\Beispiele\Kopie von mysql-Demo\libmySQL.dll=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\Projekt1.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\05-02-2007-Dynamomter Problems\libmySQL.dll=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Projekt1.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|DepFile]
+DepCabFile=Projekt1.CAB
+DepCabRun=Projekt1.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Distribution]
+Type=single
+Size=
+Title=FM Dyno Error Analyse
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Little tools FarmÆ-DB-Tools]
+Icon1=Projekt1.exe
+Title1=FM Dyno Problems
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 2 31.1.2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Setups\17-03-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Setups\17-03-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Setups\17-03-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Setups\17-03-2007\Projekt1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Dyno Problems]
+Icon1=Projekt1.exe
+Title1=Dyno Problems
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\kompilert
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\13-02-2007-dynamomter problems_b\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\13-02-2007-dynamomter problems_b\config.ini=
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Power-by-L-T-F.gif=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MyVbQL.dll=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Dynamomter Prob Report.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Power-by-L-T-F.gif=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Projekt1.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Dynamomter Prob Report.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Power-by-L-T-F.gif=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Projekt1.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Dynamomter Prob Report.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\Power-by-L-T-F.gif=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Distribution]
+Type=single
+Size=
+Title=Dyno Problems
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Little tools FarmÆ-DB-Tools]
+Icon1=Projekt1.exe
+Title1=Dyno Problems
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\kompilert
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\kompilert\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\kompilert\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\13-02-2007-Dynamomter Problems_b\kompilert\Dynamomter Prob Report.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
